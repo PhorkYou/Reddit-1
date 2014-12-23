@@ -1,4 +1,4 @@
-reddit_bot
+Reddit.
 ==========
 
-Building a bot for reddit.
+A collection of bots/tools for reddit.
